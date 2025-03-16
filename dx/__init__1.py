@@ -1,8 +1,4 @@
-#
-# DX Package
-# packaging file
-# __init__.py
-#
+
 import datetime as dt
 
 from get_year_deltas import get_year_deltas
