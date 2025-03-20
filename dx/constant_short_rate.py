@@ -1,13 +1,3 @@
-#
-# DX Library
-#
-# Frame -- Constant Short Rate Class
-#
-# constant_short_rate.py
-#
-# Python for Finance, 2nd ed.
-# (c) Dr. Yves J. Hilpisch
-#
 from get_year_deltas import *
 
 
