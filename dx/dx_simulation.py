@@ -1,13 +1,3 @@
-#
-# DX Package
-#
-# Simulation Functions & Classes
-#
-# dx_simulation.py
-#
-# Python for Finance, 2nd ed.
-# (c) Dr. Yves J. Hilpisch
-#
 import numpy as np
 import pandas as pd
 
